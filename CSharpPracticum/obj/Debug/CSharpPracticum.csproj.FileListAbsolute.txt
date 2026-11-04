@@ -1,7 +1,0 @@
-C:\MyProjects\CSharpPracticum\CSharpPracticum\bin\Debug\CSharpPracticum.exe.config
-C:\MyProjects\CSharpPracticum\CSharpPracticum\bin\Debug\CSharpPracticum.exe
-C:\MyProjects\CSharpPracticum\CSharpPracticum\bin\Debug\CSharpPracticum.pdb
-C:\MyProjects\CSharpPracticum\CSharpPracticum\obj\Debug\CSharpPracticum.csproj.AssemblyReference.cache
-C:\MyProjects\CSharpPracticum\CSharpPracticum\obj\Debug\CSharpPracticum.csproj.CoreCompileInputs.cache
-C:\MyProjects\CSharpPracticum\CSharpPracticum\obj\Debug\CSharpPracticum.exe
-C:\MyProjects\CSharpPracticum\CSharpPracticum\obj\Debug\CSharpPracticum.pdb
