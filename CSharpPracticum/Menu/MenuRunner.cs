@@ -9,7 +9,8 @@ namespace CSharpPracticum.Menu
     {
         private List<ITask> _level1 = new List<ITask>()
         {
-            new Task01_HelloWorld()
+            new Task01_HelloWorld(),
+            new Task02_Primitives()
         };
 
         public void Run()
