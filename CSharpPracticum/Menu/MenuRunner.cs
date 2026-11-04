@@ -13,6 +13,7 @@ namespace CSharpPracticum.Menu
             new Task02_Primitives(),
             new Task03_Calculator(),
             new Task04_EvenOdd(),
+            new Task05_MultiplicationTable(),
         };
 
         public void Run()
