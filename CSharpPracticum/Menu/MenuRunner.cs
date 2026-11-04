@@ -18,6 +18,7 @@ namespace CSharpPracticum.Menu
             new Task07_StringReverse(),
             new Task08_FizzBuzz(),
             new Task09_ArrayStats(),
+            new Task10_Sorting(),
         };
 
         public void Run()
