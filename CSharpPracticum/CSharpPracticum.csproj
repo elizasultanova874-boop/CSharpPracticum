@@ -48,7 +48,6 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Tasks\Level1\Task14_AgeCalculator.cs" />
-    <Compile Include="Tasks\Level1\Class2.cs" />
     <Compile Include="Tasks\Level1\Task13_WordCounter.cs" />
     <Compile Include="Tasks\Level1\Task12_Palindrome.cs" />
     <Compile Include="Tasks\Level1\Task11_MatrixDiagonal.cs" />
@@ -70,6 +69,9 @@
     <Content Include=".gitignore" />
     <None Include="git-notes.md" />
     <None Include="README.md" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Tasks\Level2\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

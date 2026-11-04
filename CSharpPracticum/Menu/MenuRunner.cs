@@ -32,6 +32,7 @@ namespace CSharpPracticum.Menu
                 Console.Clear();
                 Console.WriteLine("=== Практикум по C# ===");
                 Console.WriteLine("1. Уровень 1 — Базовый");
+                Console.WriteLine("2. Уровень 2 - Средний");
                 Console.WriteLine("0. Выход");
                 Console.Write("Выберите уровень: ");
 
@@ -39,6 +40,7 @@ namespace CSharpPracticum.Menu
                 if (input == "0" || input == "q") return;
 
                 if (input == "1") ShowLevel("Уровень 1", _level1);
+                if (input == "2") Console.WriteLine("Уровень 2 скоро будет"); 
             }
         }
 
