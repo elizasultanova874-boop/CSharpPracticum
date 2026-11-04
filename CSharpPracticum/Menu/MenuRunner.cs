@@ -17,6 +17,7 @@ namespace CSharpPracticum.Menu
             new Task06_DigitSum(),
             new Task07_StringReverse(),
             new Task08_FizzBuzz(),
+            new Task09_ArrayStats(),
         };
 
         public void Run()
