@@ -20,6 +20,8 @@ namespace CSharpPracticum.Menu
             new Task09_ArrayStats(),
             new Task10_Sorting(),
             new Task11_MatrixDiagonal(),
+            new Task12_Palindrome(),
+
         };
 
         public void Run()
