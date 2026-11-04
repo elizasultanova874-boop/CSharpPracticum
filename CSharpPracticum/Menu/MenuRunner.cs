@@ -22,6 +22,7 @@ namespace CSharpPracticum.Menu
             new Task11_MatrixDiagonal(),
             new Task12_Palindrome(),
             new Task13_WordCounter(),
+            new Task14_AgeCalculator(),
         };
 
         public void Run()
