@@ -19,6 +19,7 @@ namespace CSharpPracticum.Menu
             new Task08_FizzBuzz(),
             new Task09_ArrayStats(),
             new Task10_Sorting(),
+            new Task11_MatrixDiagonal(),
         };
 
         public void Run()
