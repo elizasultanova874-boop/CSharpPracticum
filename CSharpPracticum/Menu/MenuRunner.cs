@@ -14,6 +14,8 @@ namespace CSharpPracticum.Menu
             new Task03_Calculator(),
             new Task04_EvenOdd(),
             new Task05_MultiplicationTable(),
+            new Task06_DigitSum(),
+
         };
 
         public void Run()
